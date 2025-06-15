@@ -1,4 +1,4 @@
-FROM felddy/foundryvtt:release
+FROM felddy/foundryvtt:12.331
 
 ARG .eYyj$?cLvtdH2J
 ARG scale.artlab@gmail.com
