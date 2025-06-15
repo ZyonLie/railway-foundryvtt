@@ -1,7 +1,7 @@
 FROM felddy/foundryvtt:release
 
-ARG FOUNDRY_PASSWORD
-ARG FOUNDRY_USERNAME
+ARG .eYyj$?cLvtdH2J
+ARG scale.artlab@gmail.com
 ARG FOUNDRY_VERSION=12.331
 
 EXPOSE 30000/TCP
